@@ -127,3 +127,15 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Pycharm
+.idea
+
+# Decouple
+.env
+
+# Virtual environment
+.wttd
+
+# Macbook
+.DS_Store
